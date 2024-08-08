@@ -1,4 +1,4 @@
-group 'dev.aluc.pdf_text'
+group 'com.pexelle.pdfText'
 version '1.0-SNAPSHOT'
 
 buildscript {

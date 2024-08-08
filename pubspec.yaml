@@ -31,7 +31,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: dev.aluc.pdf_text
+        package: com.pexelle.pdfText
         pluginClass: PdfTextPlugin
       ios:
         pluginClass: PdfTextPlugin
